@@ -1,0 +1,7 @@
+
+Ž
+java:S1488'"]Immediately return this expression instead of assigning it to the temporary variable "stock".(Ëà²«üÿÿÿÿHêRMINORZ
+CODE_SMELL
+p
+java:S1854G"?Remove this useless assignment to local variable "stockEntity".(–ª­´ýÿÿÿÿHíRMAJORZ
+CODE_SMELL

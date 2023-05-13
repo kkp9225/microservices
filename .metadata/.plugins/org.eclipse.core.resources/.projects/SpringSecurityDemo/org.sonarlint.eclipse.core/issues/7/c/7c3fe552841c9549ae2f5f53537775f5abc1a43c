@@ -1,0 +1,8 @@
+
+s	java:S125 "<This block of commented-out lines of code should be removed.(ô·é”úÿÿÿÿ8äµ×Ø€1H²RMAJORZ
+CODE_SMELL
+w
+java:S5344">Don't use the default "PasswordEncoder" relying on plain-text.(Ö˜ÔÚ8äµ×Ø€1H±RCRITICALZVULNERABILITY
+g
+java:S18742";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰öH°RMINORZ
+CODE_SMELL

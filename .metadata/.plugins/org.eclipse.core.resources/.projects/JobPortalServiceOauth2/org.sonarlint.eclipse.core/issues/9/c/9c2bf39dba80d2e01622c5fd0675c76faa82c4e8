@@ -1,0 +1,14 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(ÎÛ±ÏHÌRMAJORZ
+CODE_SMELL
+‰
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥àHÍRMINORZ
+CODE_SMELL
+„
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸ÎùÿÿÿÿHÏRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(˜ÏóàùÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+g
+java:S1874/";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰öHÒRMINORZ
+CODE_SMELL

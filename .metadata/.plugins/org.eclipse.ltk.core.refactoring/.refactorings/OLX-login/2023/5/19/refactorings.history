@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SecurityConfiguration.java&apos; to &apos;OLX-advertise/src/main/java/com.olxadvertise&apos;&#x0D;&#x0A;- Original project: &apos;OLX-login&apos;&#x0D;&#x0A;- Destination element: &apos;OLX-advertise/src/main/java/com.olxadvertise&apos;&#x0D;&#x0A;- Original element: &apos;com.olxlogin.SecurityConfiguration.java&apos;" description="Copy compilation unit" destination="=OLX-advertise/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.olxadvertise" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.olxlogin{SecurityConfiguration.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1683909804427" units="1" version="1.0"/>
+</session>

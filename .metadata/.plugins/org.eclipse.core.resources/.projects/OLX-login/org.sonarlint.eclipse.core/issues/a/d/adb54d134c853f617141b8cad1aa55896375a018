@@ -1,0 +1,34 @@
+
+\
+java:S24476"-Null is returned but a "Boolean" is expected.(¥¹ïH›RCRITICALZ
+CODE_SMELL
+Z
+java:S1068")Remove this unused "TOKEN" private field.(şë±íüÿÿÿÿHœRMAJORZ
+CODE_SMELL
+
+java:S1488A"\Immediately return this expression instead of assigning it to the temporary variable "user".(Æ–Ÿ8«¥Æá€1HRMINORZ
+CODE_SMELL
+	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŞÁÓıÿÿÿÿH¡RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èşÂ‹H¢RMINORZ
+CODE_SMELL
+ˆ
+java:S1488'"\Immediately return this expression instead of assigning it to the temporary variable "user".(ÂÚó‚H£RMINORZ
+CODE_SMELL
+\
+java:S2447<"-Null is returned but a "Boolean" is expected.(¥¹ïH¦RCRITICALZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿH§RMINORZ
+CODE_SMELL
+v
+java:S1854 "ERemove this useless assignment to local variable "userDetailsEntity".(©ˆ³²şÿÿÿÿH©RMAJORZ
+CODE_SMELL
+z
+java:S1128"IRemove this unused import 'com.olxlogin.exception.InvalidTokenException'.(ÅéÜ×ûÿÿÿÿHªRMINORZ
+CODE_SMELL
+l	java:S125M"<This block of commented-out lines of code should be removed.(Õ™¿°üÿÿÿÿH¬RMAJORZ
+CODE_SMELL
+u
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿHÉRMINORZ
+CODE_SMELL

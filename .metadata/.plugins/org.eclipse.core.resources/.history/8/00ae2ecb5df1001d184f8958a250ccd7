@@ -1,0 +1,26 @@
+management.endpoint.shutdown.enabled: true
+management.endpoints.web.base-path: /olx-advertise
+management.endpoints.web.exposure.include: '*'
+management.health.circuitbreakers.enabled: true
+management.endpoint.health.show-details: always
+
+resilience4j.circuitbreaker.instances.AUTH_TOKEN_VALIDATION.registeHealthIndicator: true
+resilience4j.circuitbreaker.instances.AUTH_TOKEN_VALIDATION.automaticTransitionFromOpenToHalfOpenEnabled: true
+resilience4j.circuitbreaker.instances.AUTH_TOKEN_VALIDATION.failureRateThreshold: 50
+resilience4j.circuitbreaker.instances.AUTH_TOKEN_VALIDATION.minimumNumberOfCalls: 5
+resilience4j.circuitbreaker.instances.AUTH_TOKEN_VALIDATION.permittedNumberOfCallsInHalfOpenState: 3
+resilience4j.circuitbreaker.instances.AUTH_TOKEN_VALIDATION.waitDurationInOpenState: 5s
+        
+server:
+  port: 9000
+
+spring.application.name: advertise-service
+spring.config.import: configserver:http://localhost:8888
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    hostname: localhost
+    instance-id: ${spring.application.name}:${random.uuid}

@@ -1,0 +1,21 @@
+
+q	java:S107!"AConstructor has 8 parameters, which is greater than 7 authorized.(ù•õ¹úÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+]
+java:S1128"1Remove this unused import 'javax.persistence.Id'.(þ¹ÞÜHÎRMINORZ
+CODE_SMELL
+f
+java:S1128"5Remove this unused import 'javax.persistence.Entity'.(úƒßýûÿÿÿÿHÐRMINORZ
+CODE_SMELL
+i
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚HÒRMINORZ
+CODE_SMELL
+`
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæHHÔRMINORZ
+CODE_SMELL
+i
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ý÷õ¡HÖRMINORZ
+CODE_SMELL
+e
+java:S1128"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿHØRMINORZ
+CODE_SMELL

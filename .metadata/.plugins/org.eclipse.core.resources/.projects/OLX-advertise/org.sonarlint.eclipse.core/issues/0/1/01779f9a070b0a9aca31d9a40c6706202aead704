@@ -1,0 +1,22 @@
+
+b
+java:S11722"1Remove this unused method parameter "auth_token".(ß°ÉòşÿÿÿÿHà"RMAJORZ
+CODE_SMELL
+|	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³×ŠÁHÆ"RMINORZ
+CODE_SMELL
+	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß°ÉòşÿÿÿÿHâ"RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëøˆƒHÈ"RMINORZ
+CODE_SMELL
+„
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëİ×6Hã"RMINORZ
+CODE_SMELL
+k	java:S1063"9Replace this use of System.out or System.err by a logger.(ıìœÜ8áÌ‡‡1Hå"RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(îˆ ë8Ô“‰1Hæ"RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ìÁ·Œ8Ô“‰1Hè"RMAJORZ
+CODE_SMELL
+s
+java:S11442";Remove this unused private "fallbackForIsValidUser" method.(ß°Éòşÿÿÿÿ8Ô“‰1Hí"RMAJORZ
+CODE_SMELL

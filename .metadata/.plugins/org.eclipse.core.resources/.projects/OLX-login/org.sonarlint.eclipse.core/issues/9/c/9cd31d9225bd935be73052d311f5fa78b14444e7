@@ -1,0 +1,10 @@
+
+g
+java:S18745";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰öHÒ!RMINORZ
+CODE_SMELL
+Ÿ
+java:S4601("fReorder the URL patterns from most to less specific, the pattern "/user" should occurs before "/user".(†±âÁ8÷ÄÉá€1HÕ!RCRITICALZVULNERABILITY
+p
+java:S5344">Don't use the default "PasswordEncoder" relying on plain-text.(Ö˜ÔÚHÔ!RCRITICALZVULNERABILITY
+g	java:S125"<This block of commented-out lines of code should be removed.(ÎÛ±ÏHÓ!RMAJORZ
+CODE_SMELL

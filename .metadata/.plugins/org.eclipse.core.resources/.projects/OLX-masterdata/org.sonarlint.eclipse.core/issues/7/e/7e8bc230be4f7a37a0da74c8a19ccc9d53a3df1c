@@ -1,0 +1,16 @@
+
+r
+java:S1854!"ARemove this useless assignment to local variable "masterArrList".(”ÑúÿÿÿÿHëRMAJORZ
+CODE_SMELL
+Z
+java:S1452"&Remove usage of generic wildcard type.(ÜÕí­úÿÿÿÿHêRCRITICALZ
+CODE_SMELL
+Z
+java:S1452 "&Remove usage of generic wildcard type.(ä‚±ÑúÿÿÿÿHìRCRITICALZ
+CODE_SMELL
+r
+java:S1854)"ARemove this useless assignment to local variable "statusArrList".(ËØãÔşÿÿÿÿHíRMAJORZ
+CODE_SMELL
+U
+java:S1452("&Remove usage of generic wildcard type.(•±–âHîRCRITICALZ
+CODE_SMELL

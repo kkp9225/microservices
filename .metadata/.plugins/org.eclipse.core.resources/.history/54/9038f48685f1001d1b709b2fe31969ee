@@ -1,0 +1,27 @@
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    
+server:
+  port: 9191
+
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lowerCaseServiceId: true
+      routes:
+      - id: LOGIN-SERVICE
+        uri: lb://LOGIN-SERVICE/users
+        predicates:
+          - Path=/authenticate/**
+      - id: ADVERTISE-SERVICE
+        uri: lb://ADVERTISE-SERVICE/
+        predicates:
+          - Path=/advertise/**
+    

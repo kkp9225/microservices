@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="D:\Microservices_Demo_Anand_Kulkarni\gitrepo\olx-config\.git"/>
+	<list key="CommitDialog.authorValues">
+		<item value="KP62526 &lt;KP62526@DIGIW42SLPC5096.mshome.net&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="KP62526 &lt;KP62526@DIGIW42SLPC5096.mshome.net&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+</section>
