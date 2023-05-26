@@ -89,4 +89,5 @@ Java Microservices Day 14 by Anand Kulkarni	- Circuit breaker continuation, API 
 	- API gateway - Configure by adding the starter gateway along with other services name for rerouting in app.properties or yaml file
 				  - All apis are configured in API gateway only
 	- Zipkin server - To monitor all the api calls
+					- java -jar ./zipkin-server/target/zipkin.jar - to run the jar.
 					- Add zipkin and sleuth dependencies and configure in respective service yml file to register on zipkin server
