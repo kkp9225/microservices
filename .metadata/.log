@@ -3935,3 +3935,21 @@ Caused by: java.lang.NoClassDefFoundError: org/eclipse/lsp4j/jsonrpc/services/Se
 
 !ENTRY com.acellere.gamma.gep 2 0 2023-05-29 16:38:38.591
 !MESSAGE Invalid state of plugin launchIncomplete
+
+!ENTRY com.acellere.gamma.gep 2 0 2023-05-29 17:10:56.514
+!MESSAGE Plugin svc is not activated
+
+!ENTRY com.acellere.gamma.gep 4 0 2023-05-29 17:10:56.518
+!MESSAGE Exception in user daemon thread ..
+!STACK 0
+com.acellere.gamma.gep.exception.GepException
+	at com.acellere.gamma.gep.ApplicationContext.ensureNoIncompleteLaunchState(ApplicationContext.java:215)
+	at com.acellere.gamma.gep.ApplicationContext.validateUser(ApplicationContext.java:249)
+	at com.acellere.gamma.gep.UserValidationDaemon.run(UserValidationDaemon.java:47)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY com.acellere.gamma.gep 1 0 2023-05-29 17:25:59.346
+!MESSAGE New file got open in editor, fetching reports
+
+!ENTRY com.acellere.gamma.gep 2 0 2023-05-29 17:25:59.447
+!MESSAGE Invalid state of plugin launchIncomplete
