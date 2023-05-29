@@ -1,45 +1,48 @@
 
-Z
-java:S1452W"&Remove usage of generic wildcard type.(—¤»§úÿÿÿÿH×!RCRITICALZ
-CODE_SMELL
-Š
-java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ø‡¨ıÿÿÿÿHØ!RMINORZ
-CODE_SMELL
-…
-java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠÃ³ÏHÚ!RMINORZ
-CODE_SMELL
-U
-java:S1452r"&Remove usage of generic wildcard type.(‰ö‹ÇHÜ!RCRITICALZ
-CODE_SMELL
-‚
-java:S1128"ORemove this unused import 'org.springframework.web.context.request.WebRequest'.(€í´ï8©¥Æá€1Hİ!RMINORZ
-CODE_SMELL
-U
-java:S1452a"&Remove usage of generic wildcard type.(âŸÏÅHß!RCRITICALZ
-CODE_SMELL
-Z
-java:S1452Q"&Remove usage of generic wildcard type.(ÜÕí­úÿÿÿÿHà!RCRITICALZ
-CODE_SMELL
-t
-java:S1128"ARemove this unused import 'javax.print.attribute.standard.Media'.(‰šäÁ8©¥Æá€1Há!RMINORZ
-CODE_SMELL
-`
-java:S5411x"(Use a primitive boolean expression here.(÷ö‡åøÿÿÿÿ8Âá¸á€1Hã!RMINORZ
-CODE_SMELL
-T
-java:S5411Y"(Use a primitive boolean expression here.(æé¹æHæ!RMINORZ
-CODE_SMELL
-Š
-java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(•‹ÚûÿÿÿÿHé!RMINORZ
+|	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŸÏÅH›1RMINORZ
 CODE_SMELL
 S
-java:S5411c"(Use a primitive boolean expression here.(©¡è_Hë!RMINORZ
+java:S5411e"(Use a primitive boolean expression here.(©¡è_Hœ1RMINORZ
 CODE_SMELL
-|	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŸÏÅHî!RMINORZ
+Š
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ø‡¨ıÿÿÿÿHŸ1RMINORZ
 CODE_SMELL
-Œ
-java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(…áÙ–8Ø†¢á€1Hï!RMINORZ
+…
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠÃ³ÏH¡1RMINORZ
+CODE_SMELL
+`
+java:S5411z"(Use a primitive boolean expression here.(÷ö‡åøÿÿÿÿ8Âá¸á€1H£1RMINORZ
+CODE_SMELL
+†
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8°°ê§1H¦1RMINORZ
+CODE_SMELL
+Š
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(•‹ÚûÿÿÿÿH¨1RMINORZ
+CODE_SMELL
+Z
+java:S1452Y"&Remove usage of generic wildcard type.(—¤»§úÿÿÿÿHª1RCRITICALZ
+CODE_SMELL
+T
+java:S5411["(Use a primitive boolean expression here.(æé¹æH«1RMINORZ
 CODE_SMELL
 y
-java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8©¥Æá€1Hñ!RMINORZ
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8©¥Æá€1H®1RMINORZ
+CODE_SMELL
+t
+java:S1128"ARemove this unused import 'javax.print.attribute.standard.Media'.(‰šäÁ8©¥Æá€1H°1RMINORZ
+CODE_SMELL
+Œ
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(…áÙ–8Ø†¢á€1H²1RMINORZ
+CODE_SMELL
+U
+java:S1452c"&Remove usage of generic wildcard type.(âŸÏÅH´1RCRITICALZ
+CODE_SMELL
+Z
+java:S1452S"&Remove usage of generic wildcard type.(ÜÕí­úÿÿÿÿHµ1RCRITICALZ
+CODE_SMELL
+‚
+java:S1128"ORemove this unused import 'org.springframework.web.context.request.WebRequest'.(€í´ï8©¥Æá€1H¶1RMINORZ
+CODE_SMELL
+U
+java:S1452t"&Remove usage of generic wildcard type.(‰ö‹ÇH¸1RCRITICALZ
 CODE_SMELL

@@ -24,4 +24,6 @@ spring:
         uri: http://localhost:9001/
         predicates:
           - Path=/advertise/**
+          - Path=/uploadFile
+          - Path=/downloadFile/**
     

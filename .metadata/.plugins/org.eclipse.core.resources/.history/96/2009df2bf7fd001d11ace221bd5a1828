@@ -1,0 +1,5 @@
+package com.olxadvertise.service;
+
+public interface FilesDBService {
+
+}

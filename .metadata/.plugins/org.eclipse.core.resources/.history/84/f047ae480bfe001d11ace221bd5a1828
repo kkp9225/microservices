@@ -1,0 +1,8 @@
+scrape_configs:
+  - job_name: 'ADVERTISE SERVICE INPUT'
+    metrics_path: '/olx-advertise/prometheus'
+    scrape_interval: 2s
+    static_configs:
+      - targets: ['localhost:9001']
+        labels:
+          application: 'ADVERTISE-SERVICE'

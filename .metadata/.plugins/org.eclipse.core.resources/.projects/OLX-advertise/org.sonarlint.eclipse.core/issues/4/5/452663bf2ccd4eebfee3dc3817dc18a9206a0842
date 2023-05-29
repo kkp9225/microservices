@@ -1,82 +1,52 @@
 
 Y
-java:S5411O"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿHü RMINORZ
+java:S5411C"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿH—2RMINORZ
 CODE_SMELL
-Z
-java:S1452Z"&Remove usage of generic wildcard type.(²¦³¤úÿÿÿÿHö RCRITICALZ
-CODE_SMELL
-T
-java:S1452+"&Remove usage of generic wildcard type.(ÀÔÅaHñ RCRITICALZ
+{	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÔÅaHš2RMINORZ
 CODE_SMELL
 Y
-java:S5411C"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿH‹!RMINORZ
-CODE_SMELL
-…
-java:S1192i"QDefine a constant instead of duplicating this literal "Electronic goods" 3 times.(Ü—ÉûÿÿÿÿH!RCRITICALZ
-CODE_SMELL
-	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îì‡›şÿÿÿÿHò RMINORZ
-CODE_SMELL
-†
-java:S1192j"WDefine a constant instead of duplicating this literal "intel core 3 Sony Vaio" 3 times.(›Ğ—ĞHí RCRITICALZ
-CODE_SMELL
-{	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÔÅaH†!RMINORZ
-CODE_SMELL
-Y
-java:S5411\"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿHÿ RMINORZ
+java:S5411-"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿH›2RMINORZ
 CODE_SMELL
 Z
-java:S1452%"&Remove usage of generic wildcard type.(ÜÕí­úÿÿÿÿHú RCRITICALZ
-CODE_SMELL
-Z
-java:S1452A"&Remove usage of generic wildcard type.(Îì‡›şÿÿÿÿHû RCRITICALZ
-CODE_SMELL
-|	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ôÿ³Hê RMINORZ
-CODE_SMELL
-Y
-java:S54118"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿH‡!RMINORZ
-CODE_SMELL
-U
-java:S1452d"&Remove usage of generic wildcard type.(÷ŒøÃHŠ!RCRITICALZ
-CODE_SMELL
-Z
-java:S1068"")Remove this unused "TOKEN" private field.(şë±íüÿÿÿÿH!RMAJORZ
-CODE_SMELL
-}	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¾‚H”!RMINORZ
-CODE_SMELL
-U
-java:S1452M"&Remove usage of generic wildcard type.(²Ôÿ³Hë RCRITICALZ
-CODE_SMELL
-m
-java:S1854D"ARemove this useless assignment to local variable "arrAdvertises".(ö„„ÕHõ RMAJORZ
-CODE_SMELL
-Y
-java:S5411-"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿHç RMINORZ
-CODE_SMELL
-|	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ò‡¬H!RMINORZ
-CODE_SMELL
-V
-java:S1452€"&Remove usage of generic wildcard type.(é¸ÇõHì RCRITICALZ
-CODE_SMELL
-z
-java:S1192h"FDefine a constant instead of duplicating this literal "54000" 3 times.(ÒŒğ£øÿÿÿÿH•!RCRITICALZ
-CODE_SMELL
-{
-java:S1192g"LDefine a constant instead of duplicating this literal "laptop sale" 3 times.(è–âäH™!RCRITICALZ
-CODE_SMELL
-Z
-java:S5411"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿHƒ!RMINORZ
-CODE_SMELL
-U
-java:S14526"&Remove usage of generic wildcard type.( Ò‡¬Hù RCRITICALZ
-CODE_SMELL
-Ÿ
-java:S4144€"rUpdate this method so that its implementation is not identical to "searchUserAdvertiseFilterCriteria" on line 100.(é¸ÇõHó RMAJORZ
+java:S1452M"&Remove usage of generic wildcard type.(²¦³¤úÿÿÿÿH2RCRITICALZ
 CODE_SMELL
 c
-java:S1854P"7Remove this useless assignment to local variable "ad1".(³²ÕHø RMAJORZ
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8·¤€š‚1HŸ2RMINORZ
 CODE_SMELL
-	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¦³¤úÿÿÿÿH÷ RMINORZ
+Y
+java:S5411O"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿH¡2RMINORZ
 CODE_SMELL
-V
-java:S1452œ"&Remove usage of generic wildcard type.(—¾‚H‚!RCRITICALZ
+s	java:S125]"<This block of commented-out lines of code should be removed.(îñ´¡ıÿÿÿÿ8·¤€š‚1H¤2RMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8·¤€š‚1H§2RMINORZ
+CODE_SMELL
+U
+java:S14526"&Remove usage of generic wildcard type.( Ò‡¬H©2RCRITICALZ
+CODE_SMELL
+|	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ò‡¬Hª2RMINORZ
+CODE_SMELL
+Z
+java:S1452%"&Remove usage of generic wildcard type.(ÜÕí­úÿÿÿÿH«2RCRITICALZ
+CODE_SMELL
+	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¦³¤úÿÿÿÿH¬2RMINORZ
+CODE_SMELL
+U
+java:S1452A"&Remove usage of generic wildcard type.(—¾‚H­2RCRITICALZ
+CODE_SMELL
+n	java:S125l"<This block of commented-out lines of code should be removed.(¢Ô8·¤€š‚1H®2RMAJORZ
+CODE_SMELL
+|	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¾‚HÅ2RMINORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8·¤€š‚1HÆ2RMINORZ
+CODE_SMELL
+T
+java:S1452+"&Remove usage of generic wildcard type.(ÀÔÅaHÈ2RCRITICALZ
+CODE_SMELL
+Z
+java:S1068"")Remove this unused "TOKEN" private field.(şë±íüÿÿÿÿHÉ2RMAJORZ
+CODE_SMELL
+Y
+java:S54118"(Use a primitive boolean expression here.(îİ¡ûÿÿÿÿHË2RMINORZ
 CODE_SMELL

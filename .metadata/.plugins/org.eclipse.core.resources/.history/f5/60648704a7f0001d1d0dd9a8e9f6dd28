@@ -1,10 +1,0 @@
-spring:
-  security:
-    oauth2:
-      client:
-        registration:
-          github:
-           client-id: 534510582099-6k71pd6qkn52a49d1q7sqm6q2agbmthc.apps.googleusercontent.com
-           client-secret: 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
-
-server:  port: 9090

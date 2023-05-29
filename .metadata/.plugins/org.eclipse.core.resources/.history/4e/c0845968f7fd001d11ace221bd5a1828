@@ -1,0 +1,46 @@
+package com.olxadvertise.util;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.multipart.MultipartFile;
+
+import com.olxadvertise.entity.FilesDB;
+import com.olxadvertise.service.FilesDBService;
+
+public class FileUploadUtil {
+
+	@Autowired 
+	FilesDBService filesDBService;
+	
+	public FilesDB FilesDB (String fileName, MultipartFile multipartFile)
+            throws IOException {
+        Path uploadPath = Paths.get("Files-Upload");
+        
+        if (!Files.exists(uploadPath)) {
+            Files.createDirectories(uploadPath);
+        }
+        String fileCode = RandomStringUtils.randomAlphanumeric(8);
+        long size = multipartFile.getSize();
+        FilesDB response = new FilesDB();
+        response.setFileName(fileName);
+		response.setSize(size);
+		response.setData(multipartFile.getBytes());
+		response.setFileType(multipartFile.getContentType());
+		response.setDownloadUri("/downloadFile/" + fileCode);
+		try {
+			filesDBService.saveFile(response);
+		} catch (Exception e) {
+			e.printStackTrace();
+			response.setFileName("Something went wrong");
+			return response;
+		}
+        return response;
+    }
+}

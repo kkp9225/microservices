@@ -1,0 +1,9 @@
+package com.olxadvertise.repo;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.olxadvertise.entity.FilesDB;
+
+public interface FilesDBRepo extends JpaRepository<FilesDB, Integer>{
+
+}

@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Microservices_Demo_Anand_Kulkarni\olx-api-gateway"/>
 			<item value="D:\Microservices_Demo_Anand_Kulkarni\olx-config-server"/>
 		</list>
 		<list key="projectNameTemplate">

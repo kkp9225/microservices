@@ -1,0 +1,5 @@
+package com.olxadvertise.exception;
+
+public class FileUploadExceptionAdvice {
+
+}

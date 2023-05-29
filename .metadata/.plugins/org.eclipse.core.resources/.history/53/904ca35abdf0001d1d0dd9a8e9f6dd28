@@ -1,8 +1,0 @@
-application: ''
-cloud: ''
-config: ''
-git: ''
-name: configuration-server
-server: ''
-spring: ''
-uri: "https://github.com/kkp9225/olx-config.git\t"

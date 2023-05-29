@@ -1,22 +1,48 @@
 
+s
+java:S1128	"@Remove this unused import 'org.springframework.http.HttpEntity'.(ÂéŽÓ8¢üŸ˜…1H™0RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‡Âºñýÿÿÿÿ8‰¼Ú 1Hþ/RMAJORZ
+CODE_SMELL
 b
-java:S11722"1Remove this unused method parameter "auth_token".(ß°ÉòþÿÿÿÿHà"RMAJORZ
+java:S1172O"1Remove this unused method parameter "auth_token".(¸ÔÎ¦ÿÿÿÿÿH–0RMAJORZ
 CODE_SMELL
-|	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³×ŠÁHÆ"RMINORZ
+k	java:S106P"9Replace this use of System.out or System.err by a logger.(ÍºÐò8¢üŸ˜…1H˜0RMAJORZ
 CODE_SMELL
-	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß°ÉòþÿÿÿÿHâ"RMINORZ
+p
+java:S1128"8Remove this unused import 'reactor.core.publisher.Flux'.(·äÍÆøÿÿÿÿ8¢üŸ˜…1H0RMINORZ
 CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëøˆƒHÈ"RMINORZ
+	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÔÎ¦ÿÿÿÿÿH•0RMINORZ
 CODE_SMELL
-„
-java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëÝ×6Hã"RMINORZ
+n	java:S1257"<This block of commented-out lines of code should be removed.(ÓÕÌË8¢üŸ˜…1H‘0RMAJORZ
 CODE_SMELL
-k	java:S1063"9Replace this use of System.out or System.err by a logger.(ýìœÜ8áÌ‡‡1Hå"RMAJORZ
+}	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(¸ÔÎ¦ÿÿÿÿÿ8âáâ 1Hý/RMAJORZ
 CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.(îˆ ë8Ô“‰1Hæ"RMAJORZ
+x
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8¢üŸ˜…1Hû/RMINORZ
 CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.(ìÁ·Œ8Ô“‰1Hè"RMAJORZ
+p
+java:S1128"8Remove this unused import 'reactor.core.publisher.Mono'.(²îöØÿÿÿÿÿ8½ˆô–†1Hè0RMINORZ
+CODE_SMELL
+x
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8†‰ì 1Hˆ0RMINORZ
+CODE_SMELL
+|	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³×ŠÁH€0RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(îˆ ë8Ô“‰1H0RMAJORZ
+CODE_SMELL
+|
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8†‰ì 1HŠ0RMINORZ
+CODE_SMELL
+n	java:S125)"<This block of commented-out lines of code should be removed.(ìÁ·Œ8Ô“‰1Hƒ0RMAJORZ
 CODE_SMELL
 s
-java:S11442";Remove this unused private "fallbackForIsValidUser" method.(ß°Éòþÿÿÿÿ8Ô“‰1Hí"RMAJORZ
+java:S1144O";Remove this unused private "fallbackForIsValidUser" method.(¸ÔÎ¦ÿÿÿÿÿ8Ô“‰1HŒ0RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëøˆƒHŽ0RMINORZ
+CODE_SMELL
+p	java:S106K"9Replace this use of System.out or System.err by a logger.(àÛÍËúÿÿÿÿ8áÌ‡‡1Hÿ/RMAJORZ
+CODE_SMELL
+y
+java:S1075A"ARefactor your code to get this URI from a customizable parameter.(’ËÛúÿÿÿÿ8ØôÏ—†1H–2RMINORZ
 CODE_SMELL
