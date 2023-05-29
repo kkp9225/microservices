@@ -3953,3 +3953,9 @@ com.acellere.gamma.gep.exception.GepException
 
 !ENTRY com.acellere.gamma.gep 2 0 2023-05-29 17:25:59.447
 !MESSAGE Invalid state of plugin launchIncomplete
+
+!ENTRY com.acellere.gamma.gep 1 0 2023-05-29 17:47:09.630
+!MESSAGE New file got open in editor, fetching reports
+
+!ENTRY com.acellere.gamma.gep 2 0 2023-05-29 17:47:09.681
+!MESSAGE Invalid state of plugin launchIncomplete
